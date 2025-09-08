@@ -1,3 +1,3 @@
 # testRepo
-Test Repo
+Test Repo \n
 This repo is to refamiliarise with GIT
